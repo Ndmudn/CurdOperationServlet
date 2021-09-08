@@ -16,13 +16,5 @@
 	<classpathentry kind="lib" path="D:/Eclipse/WepApplication/Tomcat/apache-tomcat-10.0.10/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc14-9.2.0.1.jar.zip"/>
 	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/ojdbc10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/ons.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/oraclepki.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/orai18n.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/osdt_cert.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/osdt_core.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/simplefan.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/ucp.jar"/>
-	<classpathentry kind="lib" path="C:/Users/mdnadeem/Downloads/ojdbc10-full/xdb.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

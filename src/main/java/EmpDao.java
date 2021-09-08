@@ -15,7 +15,7 @@ public class EmpDao {
 		int status=0;
 		try{
 			Connection con=EmpDao.getConnection();
-			PreparedStatement ps=con.prepareStatement("insert into user905(name,password,email,country) values (?,?,?,?)");
+			PreparedStatement ps=con.prepareStatement("insert into user905(id,name,password,email,country) values (id_sequence.nextval,?,?,?,?)");
 			ps.setString(1,e.getName());
 			ps.setString(2,e.getPassword());
 			ps.setString(3,e.getEmail());
